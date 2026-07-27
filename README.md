@@ -1,27 +1,224 @@
-## Hi there 👋 
-<h3 align="center"> Ｉ'ｍ </br> rachistoteles 👾 </h3>
+<!-- ========================================================= -->
+<!--                     Richard's GitHub                       -->
+<!-- ========================================================= -->
 
-<!--
-**rachistoteles/rachistoteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Hey there 👋
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-
-<h3 align="center">Let's get in touch!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/richard-vazquez-burgos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn account" height="40" width="40" /></a>
+I'm <strong>Richard</strong>.
+</p>
+
+<p align="center">
+I like turning random ideas into software.
+</p>
+
+<p align="center">
+Most of what I build starts with one question:
+</p>
+
+<p align="center">
+<b>"I wonder if this is possible..."</b>
+</p>
+
+---
+
+# $ whoami
+
+```text
+Name........ Richard Vazquez
+
+OS.......... Fedora Linux
+
+Favorite.... Building things that are fun.
+
+Current..... PortfolioOS
+
+Location.... Somewhere inside a terminal.
+```
+
+---
+
+# $ philosophy
+
+I don't build projects to fill a portfolio.
+
+I build them because I enjoy learning how things work.
+
+Sometimes they become useful.
+
+Sometimes they become weird.
+
+Sometimes both.
+
+---
+
+# $ current_quest
+
+```text
+██████████░░░░░░░░░░░░░░░ 40%
+
+Project:
+PortfolioOS
+
+A portfolio that behaves like an operating system.
+
+The goal isn't to show projects.
+
+The goal is to explore them.
+```
+
+---
+
+# $ playground
+
+These are some of the projects I'm actively working on or experimenting with.
+
+| Project | Description |
+|---------|-------------|
+| 🖥 PortfolioOS | Operating-system-inspired portfolio |
+| 🌊 Nexus Wave | Graphics & visualization experiments |
+| 🎮 ASCIImon | Pokémon rendered entirely with ASCII |
+| ⌨ WPM Trainer | Terminal typing trainer |
+| 📟 TermGuide | Linux & terminal guide |
+| 🐍 ASCII Converter | Images and animations in ASCII |
+| 🎵 Terminal FM | Music inside the terminal |
+
+---
+
+# $ interests
+
+```text
+Linux
+
+Terminal Applications
+
+Rust
+
+C++
+
+Python
+
+TypeScript
+
+Graphics Programming
+
+ASCII Art
+
+Automation
+
+Developer Tools
+
+User Interfaces
+
+Reverse Engineering
+
+Game Development
+
+Mathematics
+
+Learning New Things
+```
+
+---
+
+# $ side_quests
+
+- Learning more Rust every week.
+
+- Making prettier terminal interfaces.
+
+- Building software that feels playful.
+
+- Exploring graphics programming.
+
+- Making Linux more fun.
+
+---
+
+# $ toolbox
+
+```text
+Languages
+
+Rust
+Python
+C++
+TypeScript
+Bash
+
+Platforms
+
+Linux
+Git
+GitHub
+
+Currently Using
+
+Fedora
+VS Code
+Cursor
+Codex
+Git
+```
+
+---
+
+# $ fun_fact
+
+```text
+Most repositories begin with:
+
+"I wonder if..."
+
+...and then suddenly it's 3 AM.
+```
+
+---
+
+# $ repository_status
+
+```text
+Currently experimenting with
+
+✓ Terminal Interfaces
+
+✓ Linux Utilities
+
+✓ Interactive Visualizations
+
+✓ Pokémon Projects
+
+✓ ASCII Graphics
+
+✓ Automation
+
+✓ Random Ideas
+```
+
+---
+
+# $ future
+
+Coming soon...
+
+🖥 PortfolioOS
+
+A place where every project can be explored instead of simply listed.
+
+---
+
+# $ contact
+
+If you enjoy building strange, fun, or experimental software...
+
+I'd love to hear from you.
+
+---
+
+<p align="center">
+
+<b>Happy Coding.</b>
+
 </p>
