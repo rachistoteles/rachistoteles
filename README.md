@@ -2,24 +2,26 @@
 <!--                     Richard's GitHub                       -->
 <!-- ========================================================= -->
 
-<h1 align="center">
-Hey there 👋
-</h1>
+# Hey 👋
 
-<p align="center">
-I'm <strong>Richard</strong>.
-</p>
+I'm Richard.
 
-<p align="center">
-I like turning random ideas into software.
-</p>
+I enjoy building software because I'm curious.
 
-<p align="center">
-Most of what I build starts with one question:
-</p>
+Most repositories begin with one sentence:
 
-<p align="center">
-<b>"I wonder if this is possible..."</b>
-</p>
+> "I wonder if this is possible..."
 
 ---
+
+## Current Quest
+
+🖥️ PortfolioOS
+
+An operating-system-inspired portfolio where projects are explored instead of listed.
+
+---
+
+**Scroll down.**
+
+That's where the fun starts.
