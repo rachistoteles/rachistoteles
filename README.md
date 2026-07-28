@@ -4,17 +4,19 @@
 
 <div align="center">
 
-```diff
-@@ $ whoami @@
+## `$ whoami`
 
-+ Richard
+# Richard
 
-  Developer.
-  Linux enthusiast.
-  Terminal enjoyer.
-
-! Building things because I can.
+```text
+Developer.
+Linux enthusiast.
+Terminal enjoyer.
 ```
+
+<sub><i>building things because I can.</i></sub>
+
+<br>
 
 > *Every repository starts as an experiment.*
 
