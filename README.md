@@ -3,8 +3,9 @@
 <!-- ========================================================= -->
 
 <div align="center">
+
 ```diff
-  @@ $ whoami @@
+@@ $ whoami @@
 ```
 
 ```text
@@ -15,7 +16,7 @@ Terminal enjoyer.
 
 <sub><i>building things because I can.</i></sub>
 
-<br>
+<br><br>
 
 > *Every repository starts as an experiment.*
 
