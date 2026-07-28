@@ -4,9 +4,7 @@
 
 <div align="center">
 
-```diff
-@@ $ whoami @@
-```
+## `$ whoami`
 
 ```text
 Developer.
@@ -14,7 +12,7 @@ Linux enthusiast.
 Terminal enjoyer.
 ```
 
-<sub><i>building things because I can.</i></sub>
+<sub>building things because I can</sub>
 
 <br><br>
 
