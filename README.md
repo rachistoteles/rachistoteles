@@ -2,26 +2,22 @@
 <!--                     Richard's GitHub                       -->
 <!-- ========================================================= -->
 
+<div align="center">
+
 # Hey 👋
 
-I'm Richard.
+```text
+$ whoami
 
-I enjoy building software because I'm curious.
+Richard
 
-Most repositories begin with one sentence:
+Developer.
+Linux enthusiast.
+Terminal enjoyer.
 
-> "I wonder if this is possible..."
+Building things because I can.
+```
 
----
+> *Every repository starts as an experiment.*
 
-## Current Quest
-
-🖥️ PortfolioOS
-
-An operating-system-inspired portfolio where projects are explored instead of listed.
-
----
-
-**Scroll down.**
-
-That's where the fun starts.
+</div>
