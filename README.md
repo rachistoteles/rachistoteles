@@ -12,10 +12,12 @@ Linux enthusiast.
 Terminal enjoyer.
 ```
 
-<sub>building things because I can</sub>
+<br>
 
-<br><br>
-
-> *Every repository starts as an experiment.*
+> *Not every idea needs a reason.*
 
 </div>
+
+<p align="right">
+  <sub><i>building things because I can.</i></sub>
+</p>
