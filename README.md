@@ -4,9 +4,8 @@
 
 <div align="center">
 
-## `$ whoami`
+##  @@ `$ whoami`
 
-# Richard
 
 ```text
 Developer.
