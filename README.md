@@ -6,7 +6,15 @@
 
 # Hey 👋
 
-```text
+```shell
+$ whoami
+```
+
+```zsh
+$ whoami
+```
+
+```sh
 $ whoami
 
 Richard
